@@ -54,4 +54,5 @@ Dilshana Ranawake
 Anjula Achinthana
 (group project)
 
-
+![](https://github.com/DilshanaRanawake/Rock-Paper-Scissors-Socket-Game/blob/main/rock-paper-scissor%20ss/Picture1.png)
+![](https://github.com/DilshanaRanawake/Rock-Paper-Scissors-Socket-Game/blob/main/rock-paper-scissor%20ss/Picture2.png)
