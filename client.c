@@ -31,7 +31,7 @@ int main() {
     // Set up server address struct
     server_addr.sin_family = AF_INET;
     server_addr.sin_port = htons(PORT);
-    server_addr.sin_addr.s_addr = inet_addr("112.134.151.103");  // Replace with the server's IP address
+    server_addr.sin_addr.s_addr = inet_addr("server's IP address");  // Replace with the server's IP address
 
     // Connect to server
     if (connect(client_socket, (struct sockaddr*)&server_addr, sizeof(server_addr)) == SOCKET_ERROR) {
