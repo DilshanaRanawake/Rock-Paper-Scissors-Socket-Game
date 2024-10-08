@@ -50,9 +50,9 @@ The client displays the server's choice and the result (Win/Lose/Tie).
 - TCP/IP for network communication.
 
 ## Contributors
-Dilshana Ranawake
-Anjula Achinthana
-(group project)
+- Dilshana Ranawake
+- Anjula Achinthana
+#### (group project)
 
 ![](https://github.com/DilshanaRanawake/Rock-Paper-Scissors-Socket-Game/blob/main/rock-paper-scissor%20ss/Picture1.png)
 ![](https://github.com/DilshanaRanawake/Rock-Paper-Scissors-Socket-Game/blob/main/rock-paper-scissor%20ss/Picture2.png)
